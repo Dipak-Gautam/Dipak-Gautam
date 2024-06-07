@@ -8,7 +8,7 @@ I'm a Frontend-Developer from Pokhara, Nepal. I graduated Bachelors in Computer 
 
 * 🌍  I'm based in Pokhara, Nepal
 * ✉️  You can contact me at [anjangautam095@gmail.com](mailto:anjangautam095@gmail.com)
-* 🧠  I'm learning Nodejs
+* 🧠  I'm learning Nodejs,React.Js and ReactNative
 <p align="center">
  
 
