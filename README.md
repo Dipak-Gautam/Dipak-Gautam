@@ -17,26 +17,26 @@ I'm a Frontend-Developer from Pokhara, Nepal. I graduated Bachelors in Computer 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-0088CC?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/boma.colo)
 </p>
 
-<a href="https://www.github.com/Dineshpokhrel" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Dineshpokhrel?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
-![Visitor Badge](https://komarev.com/ghpvc/?username=Dineshpokhrel&color=blue)
+<a href="https://github.com/Dipak-Gautam" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Dipak-Gautam?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
+![Visitor Badge](https://komarev.com/ghpvc/?username=Dipak-Gautam&color=blue)
 
 
 <h3 align="left">Languages and Tools:</h3>
 
-![](https://skillicons.dev/icons?i=nodejs,nextjs,typescript,tailwind,dynamodb,express,git,graphql,vercel,js,ts,mongodb,netlify,postgres,react,vscode,vercel&perline=20) 
+![](https://skillicons.dev/icons?i=nodejs,nextjs,typescript,tailwind,dynamodb,express,git,graphql,vercel,js,ts,mongodb,netlify,react,vscode,vercel&perline=20) 
 
 
 ### 👨‍💻 I love listening to Music on my leasure time. 🎶
 
-<a href="https://github.com/Dineshpokhrel" target="_blank"><img align="right" alt="GIF" height="150px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" /></a>
+<a href="https://github.com/Dipak-Gautam" target="_blank"><img align="right" alt="GIF" height="150px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" /></a>
 
 
 
 
 ### You can find my stuff here :leaves:
 
-- My Personal Website :yum: [Visit](https://github.com/Dineshpokhrel)
+- My Personal Website :yum: [Visit](https://dipakgautam.netlify.app/)
 
 
 ## ⚡ Technologies
@@ -59,13 +59,13 @@ src="https://img.shields.io/github/followers/Dineshpokhrel?logo=github&style=for
 ### 👨 My Github Activity
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dineshpokhrel&theme=algolia&hide_border=true" width="700"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dipak-Gautam&theme=algolia&hide_border=true" width="700"/>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dineshpokhrel&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dineshpokhrel&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dineshpokhrel&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dineshpokhrel&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dineshpokhrel&theme=github_dark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dipak-Gautam&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dipak-Gautam&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dipak-Gautam&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dipak-Gautam&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dipak-Gautuam&theme=github_dark&utcOffset=8)
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Dineshpokhrel&count_private=true&show_icons=true&include_all_commits=true)
