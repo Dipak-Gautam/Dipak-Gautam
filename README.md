@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <h4> Frontend Develover<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h4>
 --------------------------------------
 
-I'm a Frontend-Developer from Pokhara, Nepal. I graduated Bachelors in Computer Science and Information Technology from Mount Annapurna Campus, Nepal affiliated to Tribhuvan University. I like building new stuff and working with other people.
+I'm a Frontend-Developer from Kathmandu, Nepal. I graduated Bachelors in Computer Science and Information Technology from Mount Annapurna Campus, Nepal affiliated to Tribhuvan University. I like building new stuff and working with other people.
 
-* 🌍  I'm based in Pokhara, Nepal
+* 🌍  I'm based in Kathmandu, Nepal
 * ✉️  You can contact me at [anjangautam095@gmail.com](mailto:anjangautam095@gmail.com)
 * 🧠  I'm learning Nodejs,React.Js and ReactNative
 <p align="center">
