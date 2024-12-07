@@ -57,13 +57,7 @@ src="https://img.shields.io/github/followers/Dipak-Gautam?logo=github&style=for-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dipak-Gautam&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dipak-Gautam&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dipak-Gautam&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dipak-Gautam&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dipak-Gautuam&theme=github_dark&utcOffset=8)
 
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Dipak-Gautam&count_private=true&show_icons=true&include_all_commits=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dipak-Gautam&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=Dipak-Gautam&color=green)
 
