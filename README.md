@@ -51,8 +51,7 @@ src="https://img.shields.io/github/followers/Dipak-Gautam?logo=github&style=for-
 
 ### 👨 My Github Activity
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dipak-Gautam)
-
+![Metrics](https://metrics.lecoq.io/Dipak-Gautam)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dipak-Gautam&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dipak-Gautam&theme=github_dark)
